@@ -5,7 +5,7 @@
 
 This analysis was made with the purpose of guiding Steve’s parents acquiring stocks, because the one that they choose at the beginning wasn’t that good after all (that’s how the analysis started just with “DQ” but Steve wanted to go deeper and see how the overall stocks behaved during those two years.
 
-##Process
+## Process
 
 Data after been analyzed was filtered by year and ticker.
 Doing these we could get the total volume of each stock and the percentage hot each one performed each year
@@ -24,7 +24,7 @@ Creating new Variables and some Arrays we could optimized the time of processing
 
 
 
-##Summary
+## Summary
 
 1.	The advantage of refactoring a code is that most of the times we can get better results with whatever results we got in the first place 
 
